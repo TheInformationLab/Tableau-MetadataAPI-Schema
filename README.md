@@ -13,3 +13,8 @@ However what if you want to use a third party querying interface such as Postman
 ## Please Note!
 
 A word of warning, the schemas contained in this repository are generated from released versions of Tableau Server and are not provided by Tableau directly. As such there are no guarantees as to the validity of these schemas and no official support is provided for them
+
+## Current Releases
+
+**Tableau Server Release 2019.2.3** ![View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.2.3.schema)
+**Tableau Server Beta 2019.3.0** ![View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.3.0-Beta.schema)
