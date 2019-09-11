@@ -16,6 +16,6 @@ A word of warning, the schemas contained in this repository are generated from r
 
 ## Current Releases
 
-**Tableau Server Release 2019.2.3** ![View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.2.3.schema)
+**Tableau Server Release 2019.2.3** [View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.2.3.schema)
 
-**Tableau Server Beta 2019.3.0** ![View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.3.0-Beta.schema)
+**Tableau Server Beta 2019.3.0** [View on Github](https://github.com/TheInformationLab/Tableau-MetadataAPI-Schema/blob/master/2019.3.0-Beta.schema)
